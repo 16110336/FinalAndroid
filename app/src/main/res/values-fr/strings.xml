@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="frm_head">isi form untuk registrasi form</string>
+    <string name="frm_name">nama</string>
+    <string name="frm_address">alamat</string>
+    <string name="frm_phn">hape</string>
+    <string name="frm_pass">sandi</string>
+    <string name="frm_check">Saya telah membaca dan menyetujui istilah tersebut</string>
+
+    <string name="btn_go">submit</string>
+    <string name="btn_lang">bahasa</string>
+</resources>

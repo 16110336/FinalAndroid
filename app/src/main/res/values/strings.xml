@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="frm_name">name</string>
+    <string name="frm_address">address</string>
+    <string name="frm_phn">phone</string>
+    <string name="frm_pass">password</string>
+    <string name="frm_check">i have read and agree the terms</string>
+
+    <string name="btn_go">submit</string>
+    <string name="btn_lang">set language</string>
+
+</resources>
